@@ -1,15 +1,13 @@
 Hello! x2
 Hello Team!
 Hey guys, Jandy here.
-
 You guys rock!
 
 Heeeyyyy!
 
-<<<<<<< HEAD
-
-
-=======
 Change for merge
 This is Ricardo's second change to the file.
 
+
+
+Just so I'm on here ~Chris
