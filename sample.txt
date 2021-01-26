@@ -6,5 +6,10 @@ You guys rock!
 
 Heeeyyyy!
 
+<<<<<<< HEAD
 
+
+=======
+Change for merge
+This is Ricardo's second change to the file.
 
