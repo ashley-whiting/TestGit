@@ -2,7 +2,11 @@
 
 Hello World
 Goodbye 
+<<<<<<< HEAD
 See you later WE MISS YOU
+=======Alligator!!!!
+See you later ALLIGATOR
+>>>>>>> 73c3ed887dc2bb29a7bc2e8d5ee06ee7d3a2894b
 <<<<<<< HEAD
 Welcome back.
 Come back soon.
